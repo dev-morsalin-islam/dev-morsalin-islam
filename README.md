@@ -1,4 +1,4 @@
-<img src="https://github.com/morsalin-islam335/Blog-Project/blob/main/Screenshot%20(7).png" style="width:100%; height:600px; object-fit:cover; display:block;">
+<img src="https://github.com/dev-morsalin-islam/Blog-Project/blob/main/Screenshot%20(7).png" style="width:100%; height:600px; object-fit:cover; display:block;">
 
 # Hi, I'm Morsalin Islam 👋
 
@@ -14,8 +14,8 @@ I am a **Python Backend Developer** with expertise in **Django, Django Rest Fram
 - Launch a **web development agency** and explore **freelancing opportunities**.
 
 ## 🔥 GitHub Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=morsalin-islam335&theme=tokyonight&date_format=j+M[+Y]&background=0D1117)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morsalin-islam335&layout=compact&langs_count=10&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-morsalin-islam&theme=tokyonight&date_format=j+M[+Y]&background=0D1117)](https://git.io/streak-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-morsalin-islam&layout=compact&langs_count=10&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -75,7 +75,7 @@ I am a **Python Backend Developer** with expertise in **Django, Django Rest Fram
 
 ## 📫 Contact Me:
 <p>
-  <a href="https://github.com/morsalin-islam335"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'></a>
+  <a href="https://github.com/dev-morsalin-islam"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'></a>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-PROFILE/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'></a>
   <a href="https://www.facebook.com/ProgrammerAndLearner/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'></a>
   <a href="https://www.instagram.com/morsalin5350/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'></a>
